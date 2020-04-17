@@ -2,6 +2,15 @@
 Here you can find simple python script which help you to understand how PID controllers work
 
 # Documentation
+
+При отсутствии python установите [ссылка](https://www.python.org/downloads/)
+
+перед установкой обновите pip
+
+```
+python -m pip install --upgrade pip --user
+```
+
 Для установки и запуска необходимо выполнить следующие команды:
 
 ```
@@ -15,7 +24,6 @@ pip3 install python-tk
 ```
 python3 main.py
 ```
-
 По вопросам работы программы и ее совместимости можете писать на почту 
 
 colodochca@gmail.com
