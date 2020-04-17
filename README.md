@@ -7,7 +7,7 @@ Here you can find simple python script which help you to understand how PID cont
 ```
 pip3 install matplotlib
 
-pip install python-tk
+pip3 install python-tk
 ```
 
 Для запуска необходимо перейти в директорию с программой и выполнить
